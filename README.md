@@ -3,6 +3,7 @@
 ## Getting Started
 
 ```bash
+# install dependencies
 yarn
 
 # mobile
